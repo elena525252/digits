@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.section_header {
+    max-width: 1180px;
+    width: 100%;
+    margin: auto;
+    background: #ffffff;
+}
+
+.container {
+    max-width: 1600px;
+    width: 100%;
+    margin: auto;
+    
+}
+
+.block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button--primary {
+    background-color: #3751FF;
+    color: #FFFFFF;
+    border:none;
+}
+
+.menu-link {
+    font-family: Halyard Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 80px;
+    text-decoration: none;
+    color: #1E266D;
+    margin-right: 30px;
+}
+
+.number {
+    font-family: Halyard Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 80px;
+    color: #1E266D;
+    text-decoration: none;
+    margin-right: 34px;
+}
+
+.button {
+    font-family: Halyard Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;      
+    border-radius: 30px;
+    cursor: pointer;
+    width: 113px;
+    height: 40px;
+
+}
+
+.section_body {
+    background: linear-gradient(180deg, rgba(242, 249, 255, 0.12) 0%, #F2F9FF 100%);
+}
+
+.title_body {
+    font-family: Halyard Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 105%;
+    text-align: center;
+    color: #1E266D;
+    padding-top: 130px;
+}
+
+.mini_title_body {
+    font-family: Halyard Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;    
+    text-align: center;
+    color: #455880;
+    padding-top: 27px;
+}
+
+.b_buy {
+    font-family: Halyard Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 100%;
+    width: 148px;
+    height: 50px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.b_features {
+    font-family: Halyard Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 50px;
+    color: #455880;
+    border-radius: 100px;
+    width: 200px;
+    height: 50px;
+    background: #FFFFFF;
+    border: none;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.05);
+}
+.vector {
+position: absolute;
+top: 150px;
+margin-left: -150px;
+    
+}
+    
