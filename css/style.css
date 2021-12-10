@@ -7,14 +7,6 @@ html {
     font-family: 'Halyard Display', sans-serif;
     font-style: normal;
 }
-@font-face {font-family: "Halyard Text Regular";
-    src: url("89248b0583721153668df86453b579de.eot"); /* IE9*/
-    src: url("89248b0583721153668df86453b579de.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("89248b0583721153668df86453b579de.woff2") format("woff2"), /* chrome、firefox */
-    url("89248b0583721153668df86453b579de.woff") format("woff"), /* chrome、firefox */
-    url("89248b0583721153668df86453b579de.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-    url("89248b0583721153668df86453b579de.svg#Halyard Text Regular") format("svg"); /* iOS 4.1- */
-  }
 .container {
     max-width: 1600px;
     width: 100%;
@@ -38,7 +30,6 @@ html {
     margin-right: 107px;
 }
 .menu_button{
-    font-family:"Halyard Text Regular" sans-serif !important;
     font-size:16px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -49,7 +40,7 @@ html {
     padding-right:30px;
 }
 .tel{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:16px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -63,7 +54,7 @@ html {
     margin-left: 224px;
 }
 .button{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:16px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -87,7 +78,7 @@ html {
 }
 .section_title{
     margin:auto;
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-style: normal;
     font-weight: 600;
     font-size: 56px;
@@ -96,7 +87,7 @@ html {
 }
 .section_title2 {
     margin:auto;
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-style: normal;
     font-weight: 600;
     font-size: 56px;
@@ -105,7 +96,7 @@ html {
 }
 .section_title3 {
     margin:auto;
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-style: normal;
     font-weight: 600;
     font-size: 56px;
@@ -114,7 +105,7 @@ html {
 }
 .section_title4 {
     margin:auto;
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-style: normal;
     font-weight: 600;
     font-size: 56px;
@@ -122,7 +113,7 @@ html {
     color: #1E266D;
 }
 .digits_text{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -140,7 +131,7 @@ html {
     padding-bottom: 483px;
 }
 .button_digits1{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:16px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -151,7 +142,7 @@ html {
     margin-right: 22px;
 }
 .button_digits2{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:16px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -175,7 +166,7 @@ html {
     margin-left: 342px;
 }
 .grey_text{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:16px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -205,7 +196,7 @@ html {
     padding-left: 984px;
 }
 .people_title{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:22px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -216,7 +207,7 @@ html {
     line-height: 125%;
 }
 .people_text{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:18px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -233,7 +224,6 @@ html {
     background:#FFF9EA;
 }
 .design_text{
-    font-family:"Halyard Text Regular" sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 21px;
@@ -270,7 +260,7 @@ html {
     align-items: center;
 }
 .people_text_review{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:18px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -287,7 +277,7 @@ html {
     max-height: 64px;
 }
 .people_review{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:22px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -327,7 +317,7 @@ html {
     margin-bottom: 47px;
 }
 .intouch_title {
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-style: normal;
     font-weight: 600;
     font-size: 48px;
@@ -338,7 +328,7 @@ html {
     justify-content: space-between;
 }
 .intouch_button {
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:18px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -385,7 +375,7 @@ html {
     padding-bottom: 77px;
 }
 .footer_title{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:22px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -399,7 +389,7 @@ html {
     margin-left: 184px;
 }
 .footer_menu{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:18px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -417,7 +407,7 @@ html {
     margin-bottom: 107px;
 }
 .copyright{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:14px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
@@ -432,7 +422,7 @@ html {
     justify-content: space-between;
 }
 .f_s{
-    font-family:"Halyard Text Regular" sans-serif !important;
+    
     font-size:14px;font-style:normal;
     -webkit-font-smoothing: antialiased;
     -webkit-text-stroke-width: 0.2px;
